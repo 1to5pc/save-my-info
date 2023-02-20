@@ -1,0 +1,1 @@
+#Save your personal info to a file and read it via python
